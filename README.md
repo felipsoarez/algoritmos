@@ -1,5 +1,5 @@
  
- DataCrypto Analytics | Quantitative Analysis Algorithms
+ <h1> DataCrypto Analytics | Quantitative Analysis Algorithms</h1>
 
 
 Algoritmo Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b> e <b>Criptomoedas</b>. Desenvolvido com rede neural que analisa as possiveís movimentações do mercado.
