@@ -6,6 +6,8 @@ Algoritmo Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b>
 
 Fácil implementação no Metatrader5, observe que na página <b>Resultados</b> está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
 
+<i>Atenção: Este repositório não contém os algoritmos que estão a venda em nosso site. </i>
+
 
 <a href="https://www.facebook.com/datacryptopy"><img src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-facebook-128.png" width="55" /></a> <a href="https://twitter.com/DataCryptoML"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-outline-128.png" width="50" /></a> <a href="https://www.linkedin.com/company/datacrypto-analytics/"><img src="https://cdn.icon-icons.com/icons2/936/PNG/512/linkedin-sign_icon-icons.com_73508.png" width="50" /></a>   <a href="https://www.instagram.com/analyticsdatacrypto/"><img src="https://image.flaticon.com/icons/png/128/87/87390.png" width="52" /></a> 
 
