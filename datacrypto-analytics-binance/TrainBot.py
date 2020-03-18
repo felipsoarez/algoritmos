@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-@author: Harnick Khera (Github.com/Hephyrius)
 
-Use this class to train a basic machine learning model. Or modify it to incoportate your own machine learning models or Pipelines by
-using other libraries such as XGBoost, Keras or strategies like Spiking Neural Networks!
+Use esta classe para treinar um modelo básico de aprendizado de máquina. Ou modifique-o para incorporar seus próprios modelos de aprendizado de máquina ou pipelines
+usando outras bibliotecas como XGBoost, Keras ou estratégias como Spiking Neural Networks!
 
 """
 
