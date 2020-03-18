@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: Harnick Khera (Github.com/Hephyrius)
 
-Use this class to trade using the model trained using the TrainBot class. This model is loaded from the "Models" folder.
+Use esta classe para negociar usando o modelo treinado usando a classe TrainBot. Este modelo é carregado na pasta "Modelos".
 """
 from numpy import *
 import numpy as np
