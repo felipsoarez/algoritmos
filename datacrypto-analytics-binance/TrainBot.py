@@ -22,8 +22,8 @@ from sklearn.metrics import accuracy_score, mean_squared_error
 from joblib import dump, load
 
 #You don't need to enter your key/secret in order to get data from the exchange, its only needed for trades in the TradingBot.py class.
-api_key = '7NyJQwHEGpQoV8PKxdPGE0BsFtKucXn3kkJO7wDbp5Up0aAWwltcpwlZzipbb33j'
-api_secret = 'mihIVOm3pc3LV11JVy6KBavyAQEfTcVVT79OoX3gz2eoYlfcvKHrYPRwOAxZMrnw'
+api_key = '#'
+api_secret = '#'
 client = Client(api_key, api_secret)
 
 candles = client.get_historical_klines("BTCUSDT", Client.KLINE_INTERVAL_1HOUR, "01 Jan, 2017", "10 Jul, 2020")
