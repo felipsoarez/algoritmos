@@ -18,8 +18,8 @@ from joblib import dump, load
 
 #%%
 
-api_key = 'mihIVOm3pc3LV11JVy6KBavyAQEfTcVVT79OoX3gz2eoYlfcvKHrYPRwOAxZMrnw'
-api_secret = '7NyJQwHEGpQoV8PKxdPGE0BsFtKucXn3kkJO7wDbp5Up0aAWwltcpwlZzipbb33j'
+api_key = '#'
+api_secret = '#'
 
 client = Client(api_key, api_secret)
 
