@@ -1,9 +1,7 @@
 """
-@author: Harnick Khera (Github.com/Hephyrius)
+Use essa classe como seu pipeline, use-a para todas as suas funcionalidades de manipulação de dados / criação de recursos.
 
-Use this class as your pipeline, use it for all of your data manipulation/feature creation functionality.
-
-Functions here are used across the bot and training classes!
+As funções aqui são usadas nas classes de bot e treinamento!
 
 """
 from binance.client import Client
