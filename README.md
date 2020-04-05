@@ -1,4 +1,4 @@
- 
+ <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h1>
 
 
