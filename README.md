@@ -1,4 +1,4 @@
- [![Netlify Status](https://api.netlify.com/api/v1/badges/2a9509e0-384d-4162-9c2d-cfac6770892e/deploy-status)](https://app.netlify.com/sites/datacryptoanalytics/deploys)<a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a><img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/2a9509e0-384d-4162-9c2d-cfac6770892e/deploy-status)](https://app.netlify.com/sites/datacryptoanalytics/deploys)     <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h1>
 
 
@@ -8,14 +8,13 @@ Fácil implementação no Metatrader5, observe que na página <b>Resultados</b> 
 
 <i>Atenção: Este repositório não contém os algoritmos que estão a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
 
-<noscript><a href="https://liberapay.com/datacryptoanalytics/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 <a href="https://www.facebook.com/datacryptopy"><img src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-facebook-128.png" width="35" /></a> <a href="https://twitter.com/DataCryptoML"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-outline-128.png" width="30" /></a> <a href="https://t.me/dacryptoanalytics"><img src="https://img2.freepng.es/20180715/afz/kisspng-computer-icons-telegram-logo-5b4bb35b8b3a97.7981817315316877715703.jpg" width="30" /></a> <a href="https://www.linkedin.com/company/datacrypto-analytics/"><img src="https://cdn.icon-icons.com/icons2/936/PNG/512/linkedin-sign_icon-icons.com_73508.png" width="30" /></a>      <a href="https://www.instagram.com/analyticsdatacrypto/"><img src="https://image.flaticon.com/icons/png/128/87/87390.png" width="32" /></a> 
 
 
 
-
-<img src="https://blogs.apache.org/foundation/mediaresource/d67ca611-a57c-462d-ac23-95063f81d175" width="52" >
+<img src="https://blogs.apache.org/foundation/mediaresource/d67ca611-a57c-462d-ac23-95063f81d175" width="52" ><noscript><a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+ 
 
  
-<img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png"> 
