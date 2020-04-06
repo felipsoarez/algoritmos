@@ -1,4 +1,4 @@
- <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a><img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/2a9509e0-384d-4162-9c2d-cfac6770892e/deploy-status)](https://app.netlify.com/sites/datacryptoanalytics/deploys)<a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a><img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
  <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h1>
 
 
