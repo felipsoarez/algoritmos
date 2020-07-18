@@ -1,10 +1,32 @@
  [![Netlify Status](https://api.netlify.com/api/v1/badges/2a9509e0-384d-4162-9c2d-cfac6770892e/deploy-status)](https://app.netlify.com/sites/datacryptoanalytics/deploys)     <a><img src="https://img.shields.io/badge/python-> 3.2-blue.svg"></a>     <img src="http://img.shields.io/liberapay/receives/datacryptoanalytics.svg?logo=liberapay">
- <h1> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h1>
+ <h2> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h2>
 
 
 Algoritmos Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b> e <b>Criptomoedas</b>. Desenvolvido com rede neural que analisa as possiveís movimentações do mercado.
 
 Fácil implementação no Metatrader5, observe que na página <b>Resultados</b> está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
+
+Abrir datacrypto-analytics_sentimento.py e alterar as seguintes linhas
+
+`13 consumer_key = 'SUA API KEY TWITTER'`
+
+`14 consumer_secret = 'SUA API SECRET KEY TWITTER'`
+
+`15`
+ 
+`16 access_token = 'SEU ACCESS TOKEN'`
+ 
+`17 access_token_secret = 'SEU ACCESS TOKEN'`
+`
+
+
+
+
+
+
+
+
+
 
 <i>Atenção: Este repositório não contém os algoritmos que estão a venda em nosso <a rel="datacryptoanalytics" href="https://datacryptoanalytics.github.io/">site</a>. </i>
 
