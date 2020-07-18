@@ -20,7 +20,7 @@ Abrir datacrypto-analytics_sentimento.py e alterar as seguintes linhas
 `
 
 
-Instalar dependências necessárias 
+<h3>Instalar dependências necessárias </h3>
 
 
 NumPy
