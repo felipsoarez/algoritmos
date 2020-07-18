@@ -76,7 +76,12 @@ Inciar Algortimo
 
 
 
-<img src="https://blogs.apache.org/foundation/mediaresource/d67ca611-a57c-462d-ac23-95063f81d175" width="52" ><noscript><a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<img src="https://blogs.apache.org/foundation/mediaresource/d67ca611-a57c-462d-ac23-95063f81d175" width="52" ><noscript>
+
+
+
+
+<a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
  
 
  
