@@ -6,7 +6,7 @@ Algoritmos Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b
 
 Fácil implementação no Metatrader5, observe que na página <b>Resultados</b> está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
 
-Abrir datacrypto-analytics_sentimento.py e alterar as seguintes linhas:
+Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 
 `13 consumer_key = 'SUA API KEY TWITTER'`
 
