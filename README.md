@@ -8,7 +8,7 @@
 
 Algoritmos Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b> e <b>Criptomoedas</b>. Desenvolvido com rede neural que analisa as possiveís movimentações do mercado.
 
-Fácil implementação no Metatrader5, observe que na página <b>Resultados</b> está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
+Observe que no site temos a página <b>Resultados</b> está hospedado o <i>Backtesting</i> da nossa última versão, e em nosso canal no  <a rel="Youtube" href="https://www.youtube.com/channel/UCxfGBCV9E04Uw4flJLjBCqg?view_as=subscriberl">Youtube</a> vídeos de instalação e configuração.
 
 Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 
