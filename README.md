@@ -3,7 +3,7 @@
 
 <a href="https://datacryptoanalytics.github.io/"><img src="https://datacryptoanalytics.github.io/images/logo-datacrypto-analytics.png" width="435"/></a>
 
- <h2> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics | Quantitative Analysis Algorithms</a></h2>
+ <h3> <a rel="datacryptoanalytics" href="https://datacryptoanalytics.ml/">DataCrypto Analytics - Quantitative Analysis Algorithms</a></h3>
 
 
 Algoritmos Machine Learning Quantitativo para o mercado de câmbio <b>(Forex)</b> e <b>Criptomoedas</b>. Desenvolvido com rede neural que analisa as possiveís movimentações do mercado.
