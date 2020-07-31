@@ -42,7 +42,7 @@ Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 
 `~$ pip install textblob`
 
-Inciar Algortimo 
+- Inciar Algortimo 
 
 `~$ python datacrypto-analytics_sentimento.py`
 
@@ -53,16 +53,16 @@ Inciar Algortimo
 `datacrypto-analytics_regressao_linear.py`
 
 
-Matplotlib
+- Matplotlib
 
 `~$ pip install matplotlib`
 
-Pandas
+- Pandas
 
 `~$ pip install pandas`
 
 
-Inciar Algortimo 
+- Inciar Algortimo 
 
 
 `~$ python datacrypto-analytics_regressao_linear.py`
