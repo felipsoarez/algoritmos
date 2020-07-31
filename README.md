@@ -30,15 +30,15 @@ Abrir `datacrypto-analytics_sentimento.py ` e alterar as seguintes linhas:
 
 
 
-NumPy
+- NumPy
 
 `~$ pip install numpy`
 
-Tweepy
+- Tweepy
 
 `~$ pip install tweepy`
 
-Textblob
+- Textblob
 
 `~$ pip install textblob`
 
