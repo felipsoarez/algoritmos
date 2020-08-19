@@ -13,7 +13,7 @@ import datetime as dt
 from matplotlib import pyplot as plt
 
 
-criptomoeda = input('DataCrypto Analytics | Algoritmo XGBoost |'
+criptomoeda = input('DataCrypto Analytics | Linear Regression |'
                     '\n\n | Twitter @DataCryptoML |'
                     '\n | Github @datacryptoanalytics |'
                     '\n \nDigite o par de criptomoedas listada na Binance: ')
@@ -103,9 +103,9 @@ plt.title('')
 plt.ylabel('Price')
 
 plt.subplot(2, 1, 2)
-plt.scatter(X_test, y_test, color="black")
+plt.scatter(X_test, y_test, color="black", alpha=0.5)
 plt.plot(X_test, criptomoeda_y_pred, color='red', linewidth=2)
-plt.legend(['linear regression' ], loc=0)
+plt.legend(['linear regression', 'close'], loc=0)
 plt.xlabel('')
 plt.ylabel('Linear Regression')
 
